@@ -1,2 +1,2 @@
 # IT360-Project
-forensics project 2025
+Hardware scrapper using powershell scripting.
